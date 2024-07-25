@@ -1,5 +1,7 @@
 # LongRunMIP-dPdT
-Code and partially-processed data for Kao and Pendergrass, to be submitted to GRL
+Code and partially-processed data for Kao and Pendergrass, to be submitted to GRL 
+[![DOI](https://zenodo.org/badge/775534309.svg)](https://zenodo.org/doi/10.5281/zenodo.12827997)
+
 
 The conda environment: 
 ```conda create -n lrmipdpdt jupyterlab scipy numpy xarray matplotlib netcdf4 dask nc-time-axis seaborn cartopy scikit-learn pillow```
