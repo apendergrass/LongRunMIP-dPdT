@@ -1,6 +1,6 @@
 # LongRunMIP-dPdT
-Code and partially-processed data for Kao and Pendergrass, to be submitted to GRL 
-[![DOI](https://zenodo.org/badge/775534309.svg)](https://zenodo.org/doi/10.5281/zenodo.12827997)
+Code and partially-processed data for Kao and Pendergrass, in revision for GRL 
+[![DOI](https://zenodo.org/badge/775534309.svg)](https://zenodo.org/doi/10.5281/zenodo.12827998)
 
 
 The conda environment: 
